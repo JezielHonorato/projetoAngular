@@ -14,7 +14,6 @@ import { LivrosComponent } from './livros/livros.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgModule,
     FormsModule
   ],
   providers: [],
